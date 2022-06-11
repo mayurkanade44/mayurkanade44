@@ -1,6 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/epcorn/image/upload/v1654928027/signature/web-development_wgcu1f.jpg)
 <h1 align="center">👋 Hi, I'm Mayur Kanade </h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&color=22F7D1&center=true&vCenter=true&lines=MERN+Stack+Dev;Pythoon+Enthusiast" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&color=22F7D1&center=true&vCenter=true&lines=MERN+Stack+Dev;Python+Enthusiast" /> </h3>
 
 - 💬 Ask me about **Web Development, MERN Stack, Python, Sports!!**
 
